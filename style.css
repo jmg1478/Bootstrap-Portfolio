@@ -1,0 +1,25 @@
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 10px;
+  }
+
+
+  .container {
+    width: 600px;
+  }
+
+  .row {
+   padding: 15%;
+  }
+
+  .card {
+    padding: 5%;
+  }
+  
+  .navbar navbar-expand-lg navbar-light bg-light {
+    width: 600px;
+  
+  }
+
+}
